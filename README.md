@@ -37,6 +37,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms?from_search=true&from_srp=true&qid=8mUglV9uZ1&rank=1)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- [Algorithms for Homomorphic Encryption](https://chain.link/education-hub/homomorphic-encryption)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
